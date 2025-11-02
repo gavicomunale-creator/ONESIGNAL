@@ -3,14 +3,14 @@
   "name": "AVIS GAVI Manifest file",
   "short_name": "OS Manifest",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "https://avisgavi.infinityfreeapp.com",
   "theme_color": "#017DC7",
   "background_color": "#ffffff",
   "icons": [
-    { "src": "/IMG/icon-192x192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/IMG/icon-256x256.png", "sizes": "256x256", "type": "image/png" },
-    { "src": "/IMG/icon-384x384.png", "sizes": "384x384", "type": "image/png" },
-    { "src": "/IMG/icon-512x512.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "https://avisgavi.infinityfreeapp.com/IMG/icon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "https://avisgavi.infinityfreeapp.com/IMG/icon-256x256.png", "sizes": "256x256", "type": "image/png" },
+    { "src": "https://avisgavi.infinityfreeapp.com/IMG/icon-384x384.png", "sizes": "384x384", "type": "image/png" },
+    { "src": "https://avisgavi.infinityfreeapp.com/IMG/icon-512x512.png", "sizes": "512x512", "type": "image/png" }
   ],
   "id": "?homescreen=1"
 }
